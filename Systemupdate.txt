@@ -1,6 +1,8 @@
 🎉 Congrats! You’ve found the suspicious file! 🎉
 
-But wait... before you delete it, there's one more challenge! 🕵️‍♂️🔍
-Can you track down the URL from which this file was downloaded?
+Your Flag is ------your name... That’s right, your name is the flag! 😉
 
-Your mission: Uncover the source before eliminating the threat! 🚀💻
+You can delete the file now... but wait! 🕵️‍♂️🔍
+There’s one final challenge!
+
+Can you track down the URL from which this file was downloaded and the exact time it was downloaded on the system? ⏳💻
