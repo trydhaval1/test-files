@@ -1,2 +1,6 @@
-Congrats you have found the suspicious file. 
-Now find the URL from which it was downloaded.
+🎉 Congrats! You’ve found the suspicious file! 🎉
+
+But wait... before you delete it, there's one more challenge! 🕵️‍♂️🔍
+Can you track down the URL from which this file was downloaded?
+
+Your mission: Uncover the source before eliminating the threat! 🚀💻
